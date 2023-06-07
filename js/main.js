@@ -54,7 +54,7 @@ var projectTimeline = gsap.timeline({scrollTrigger:{
     trigger: ".projects",
     start: "50% 50%",
     end: "100% 50%",
-    markers: true,
+//     markers: true,
     pin:true,
     scrub: true
 }})
