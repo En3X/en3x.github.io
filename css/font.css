@@ -1,23 +1,70 @@
+/* Founders */
 @font-face {
-    font-family: 'kbold';
-    src: url("./font/Karla-Bold.ttf");
-}
-@font-face {
-    font-family: 'kmedium';
-    src: url("./font/Karla-Medium.ttf");
-}
-@font-face {
-    font-family: 'kregular';
-    src: url("./font/Karla-Regular.ttf");
+    font-family: 'Founders Bold';
+    src: url(../fonts/Founders/Founders-Bold.woff2);
 }
 
 @font-face {
-    font-family: 'klight';
-    src: url("./font/Karla-Light.ttf");
+    font-family: 'Founders Semibold';
+    src: url(../fonts/Founders/Founders-SemiBold.woff2);
+}
+@font-face {
+    font-family: 'Founders Regular';
+    src: url(../fonts/Founders/Founders-regular.woff2);
+}
+
+/* Halvetica */
+@font-face {
+    font-family: HRegular;
+    src: url(../fonts/Halvetica/HelveticaNowDisplay-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: HBold;
+    src: url(../fonts/Halvetica/HelveticaNowDisplay-Bold.ttf);
+  }
+  
+  @font-face {
+    font-family: HLight;
+    src: url(../fonts/Halvetica/HelveticaNowDisplay-Light.ttf);
+  }
+  @font-face {
+    font-family: HMedium;
+    src: url(../fonts/Halvetica/HelveticaNowDisplay-Medium.ttf);
+  }
+  
+  @font-face {
+    font-family: HLight;
+    src: url(../fonts/Halvetica/HelveticaNowDisplay-Light.ttf);
+  }
+
+
+  /* Jetbrains Mono */
+
+@font-face {
+    font-family: "Jetbrains Regular";
+    src: url(../fonts/Jetbrains/JMRegular.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Bold";
+  src: url(../fonts/Jetbrains/JMBold.ttf);
+}
+@font-face {
+  font-family: "Jetbrains SemiBold";
+  src: url(../fonts/Jetbrains/JMSemiBold.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Medium";
+  src: url(../fonts/Jetbrains/JMMedium.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Light";
+  src: url(../fonts/Jetbrains/JMLight.ttf);
 }
 
 
-.kbold{font-family: kbold;}
-.kmedium{font-family: kmedium;}
-.kregular{font-family: kregular;}
-.klight{font-family: klight;}
+/* Cursive font */
+@font-face {
+  font-family: "Cursive";
+  src: url(../fonts/cursive.ttf);
+}
