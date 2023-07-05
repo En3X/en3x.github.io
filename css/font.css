@@ -1,0 +1,44 @@
+/* Founders */
+@font-face {
+    font-family: 'Founders Bold';
+    src: url(../fonts/Founders/Founders-Bold.woff2);
+}
+
+@font-face {
+    font-family: 'Founders Semibold';
+    src: url(../fonts/Founders/Founders-SemiBold.woff2);
+}
+@font-face {
+    font-family: 'Founders Regular';
+    src: url(../fonts/Founders/Founders-regular.woff2);
+}
+
+/* Jetbrains */
+@font-face {
+    font-family: "Jetbrains Regular";
+    src: url(../fonts/Jetbrains/JMRegular.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Bold";
+  src: url(../fonts/Jetbrains/JMBold.ttf);
+  
+}
+/* @font-face {
+  font-family: "Jetbrains SemiBold";
+  src: url(../fonts/Jetbrains/JMSemiBold.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Medium";
+  src: url(../fonts/Jetbrains/JMMedium.ttf);
+}
+@font-face {
+  font-family: "Jetbrains Light";
+  src: url(../fonts/Jetbrains/JMLight.ttf);
+} */
+
+
+/* Cursive font */
+@font-face {
+  font-family: "Cursive";
+  src: url(../fonts/cursive.ttf);
+}
