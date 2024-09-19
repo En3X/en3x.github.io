@@ -180,6 +180,11 @@ body {
   align-items: center;
 }
 
+.code-weapon {
+  color: #e8912d;
+  font-size: medium;
+}
+
 .about > .section-intro > .sectionDescription {
   text-align: justify;
   width: 50%;
